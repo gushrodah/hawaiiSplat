@@ -9,7 +9,7 @@
     }
   ],
   "dependencies": {
-    "com.unity.render-pipelines.high-definition": "17.0.3",
+    "com.unity.render-pipelines.high-definition": "17.0.4",
     "jp.keijiro.klak.timeline.procedural-motion": "2.0.3",
     "jp.keijiro.splat-vfx": "file:../../jp.keijiro.splat-vfx",
     "jp.keijiro.vfxgraphassets": "3.8.0"
